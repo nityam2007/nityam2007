@@ -21,7 +21,7 @@ I'm Ntyam A Sheth, a passionate WordPress developer, student, and technology ent
 
 ## Connect with Me
 
-- 🌐 Website: [Your Website](https://nsheth.in) In Development 
+- 🌐 Website: [My Website](https://nsheth.in) In Development 
 - 📧 Email: [admin@nsheth.in](mailto:admin@nsheth.in)
 - 📧 Email: [anuasheth51@gmail.com](mailto:anuasheth51@gmail.com)
 Feel free to reach out to me for collaborations, projects, or just to say hello! I'm always open to connecting with fellow developers and technology enthusiasts.
