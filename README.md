@@ -25,7 +25,7 @@ I'm Ntyam A Sheth, a passionate technology enthusiast and developer. Welcome to 
 
 ## Connect with Me
 
-- 🌐 Website: [My Website](https://nityam.nsheth.in)
+- 🌐 Website: [My Portfolio](https://nityam.nsheth.in)
 - 🌐 Website: [Digital Products](https://nsheth.in) 
 - 📧 Email: [admin@nsheth.in](mailto:admin@nsheth.in)
 - 📧 Email: [anuasheth51@gmail.com](mailto:anuasheth51@gmail.com)
